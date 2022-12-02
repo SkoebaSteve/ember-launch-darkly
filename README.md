@@ -10,6 +10,9 @@ This addon wraps the [Launch Darkly](https://launchdarkly.com/) feature flagging
 | :----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
 |  [v2.0](https://github.com/adopted-ember-addons/ember-launch-darkly/releases/tag/v2.0.0)   | >= [v3.17](https://github.com/emberjs/ember.js/releases/tag/v3.17.3)  |                                     [README](README.md)                                     |
 | <= [v1.0](https://github.com/adopted-ember-addons/ember-launch-darkly/releases/tag/v1.0.0) | <= [v3.16](https://github.com/emberjs/ember.js/releases/tag/v3.16.10) | [README](https://github.com/adopted-ember-addons/ember-launch-darkly/blob/v1.0.0/README.md) |
+* Ember.js v3.24 or above
+* Ember CLI v3.24 or above
+* Node.js v12 or above
 
 ## Table of Contents
 
